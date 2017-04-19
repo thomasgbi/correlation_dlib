@@ -1,0 +1,3 @@
+/home/thomas/following-the-leader/correlation_dlib/build/dlib_build/CMakeFiles/dlib.dir
+/home/thomas/following-the-leader/correlation_dlib/build/CMakeFiles/tracker.dir
+/home/thomas/following-the-leader/correlation_dlib/build/CMakeFiles/video_tracking_ex.dir
